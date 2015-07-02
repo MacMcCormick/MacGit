@@ -1,0 +1,28 @@
+body{
+	background: black;
+}
+.jumbotron {
+  background-image:url('http://media.giphy.com/media/lts3flke2AWhW/giphy.gif');
+  height: 580px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #FFFFFA;
+}
+.jumbotron img{
+	position: relative;
+	left: 500px;
+	top: 400px;
+}
+
+.row{
+	margin: 30px;
+	padding: 50px;
+	position: relative;
+	top: 30px;
+	left: 35px;
+	color: #E8E8E8;
+}
+
+.row a{
+	color: #EDB539;
+}
